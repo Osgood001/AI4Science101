@@ -19,6 +19,7 @@ First Edition
    chapters/AI_for_scientific_discovery/index
    chapters/scientific_discovery_in_the_era_of_AI/index
    chapters/molecular_dynamics/index
+   chapters/generative_modeling/index
    chapters/knowledge_base/index
 
 
